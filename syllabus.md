@@ -1,5 +1,5 @@
 # IGME-330 Rich Media Web Application Development I. 
-## Spring 2019: Syllabus
+## Fall 2019: Syllabus
 
 ## I. Course Catalog Description 
 *This course provides students the opportunity to explore the design and development of Media Rich Internet Applications (MRIAs). This course moves beyond client and server side web development, and explores issues of presentation, interactivity, persistence, and extensibility common among such applications. Specifically, items explored include framework characteristics, data management, persistence, data binding, information manipulation, as well as data presentation. Individual and group programming projects will be required. 3 Credits*
@@ -11,37 +11,31 @@
 
 ### Section 01
 - Professor: Tony Jefferson  
-- Teaching Assistant: Lucas Nichols
-- Office:  GOL-2139 (IGM Main Office)
+- Teaching Assistant: TBA
+- Office:  GOL-2525 (IGM "hall")
 - Email: tony@mail.rit.edu
 - Office hours:
-  - Tuesday/Thursday 2:15PM - 3:15PM in GOL-2139
-  - Tuesday/Thursday 6:15PM - 7:00PM in GOL-3510
-- Class meetings: TR 3:30PM - 4:45PM in MSS-3110
+  - MW 3:30PM - 4:45PM in GOL-2525
+  - TR 7:45PM - 8:30PM in GOL-3690
+- Class meetings: TR 3:30PM - 4:45PM in MSS-2175
 
 ### Section 02
-- Professor: Andrew Wheeland  
-- Teaching Assistant: Alexia Bernardo
-- Office:  GOL-2521
-- Email: anwigm@rit.edu
-- Office hours: Monday, Wednesday, 10:30AM to 12:30PM
-- Class meetings: TR 9:30AM - 10:45AM in GOL-2435
+- Professor: Tony Jefferson  
+- Teaching Assistant: TBA
+- Office:  GOL-2525 (IGM "hall")
+- Email: tony@mail.rit.edu
+- Office hours:
+  - MW 3:30PM - 4:45PM in GOL-2525
+  - TR 7:45PM - 8:30PM in GOL-3690
+- Class meetings: TR 2:00PM - 3:15PM in MSS-2175
 
 ### Section 03
-- Professor: Andrew Wheeland  
-- Teaching Assistant: Aiden Thinn
-- Office:  GOL-2521
-- Email: anwigm@rit.edu
-- Office hours: Monday, Wednesday, 10:30AM to 12:30PM
-- Class meetings: TR 11:00AM - 12:15PM in GOL-2435
-
-### Section 04
 - Professor: Noah Bast  
-- Teaching Assistant: Coehl Gleckner
+- Teaching Assistant: TBA
 - Office:  
 - Email: nbbigm@rit.edu
 - Office hours: TBA
-- Class meetings: TR 5:00PM - 06:15PM in ORN-1375
+- Class meetings: TR 5:00PM - 06:15PM in ORN-1380
 
 ## IV. Course Materials and Communication
 
