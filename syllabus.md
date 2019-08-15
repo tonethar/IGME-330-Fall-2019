@@ -5,7 +5,7 @@
 *This course provides students the opportunity to explore the design and development of Media Rich Internet Applications (MRIAs). This course moves beyond client and server side web development, and explores issues of presentation, interactivity, persistence, and extensibility common among such applications. Specifically, items explored include framework characteristics, data management, persistence, data binding, information manipulation, as well as data presentation. Individual and group programming projects will be required. 3 Credits*
 
 ## II. Prerequisites
-**IGME-230 or equivalent course**
+**IGME-230 or IGME-235 or equivalent course**
 
 ## III. Instructor and Class Details 
 
