@@ -34,7 +34,7 @@
 - Teaching Assistant: TBA
 - Office:  
 - Email: nbbigm@rit.edu
-- Office hours: TBA
+- Office hours: After class or by appointment
 - Class meetings: MW 5:00PM - 06:15PM in ORN-1380
 
 ## IV. Course Materials and Communication
