@@ -35,7 +35,7 @@
 - Office:  
 - Email: nbbigm@rit.edu
 - Office hours: TBA
-- Class meetings: TR 5:00PM - 06:15PM in ORN-1380
+- Class meetings: MW 5:00PM - 06:15PM in ORN-1380
 
 ## IV. Course Materials and Communication
 
