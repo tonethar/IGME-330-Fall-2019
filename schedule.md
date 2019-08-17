@@ -5,6 +5,8 @@
 
 **\*\* [RIT Academic Calendar - https://www.rit.edu/calendar](https://www.rit.edu/calendar) \*\***
 
+### Weekly Outline
+
 - [Week 01 (Aug 26) : Course Intro & Review of Basic Web App Structure](#week1)
 - [Week 02 (Sep 02) : Intro to Canvas Drawing API & Affine Transforms](#week2)
 - [Week 03 (Sep 09) : More Canvas & Drawing Images & Blending Modes](#week3)
