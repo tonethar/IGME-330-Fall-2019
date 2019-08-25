@@ -30,8 +30,8 @@
 - Class meetings: TR 2:00PM - 3:15PM in MSS-2175
 
 ### Section 03
-- Professor: Noah Bast  
-- Teaching Assistant: TBA
+- Professor: Noah Bast
+- Teaching Assistant: Dillon Chan (dxc6879@rit.edu)
 - Office:  
 - Email: nbbigm@rit.edu
 - Office hours: After class or by appointment
