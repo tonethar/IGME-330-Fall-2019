@@ -11,7 +11,7 @@
 
 ### Section 01
 - Professor: Tony Jefferson  
-- Teaching Assistant: TBA
+- Teaching Assistant: :-(
 - Office:  GOL-2525 (IGM "hall")
 - Email: tony@mail.rit.edu
 - Office hours:
@@ -21,7 +21,7 @@
 
 ### Section 02
 - Professor: Tony Jefferson  
-- Teaching Assistant: TBA
+- Teaching Assistant: :-(
 - Office:  GOL-2525 (IGM "hall")
 - Email: tony@mail.rit.edu
 - Office hours:
