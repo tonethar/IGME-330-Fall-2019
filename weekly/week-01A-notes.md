@@ -41,7 +41,7 @@ Official description from SIS: *This course provides students the opportunity to
 * Course topics -> [topics.md](../topics.md)
 * [Project 1 Web Audio Visualizer](../projects/project-1.md) - this is what we are working towards for the first 1/3 of the course
 * [Project 1 Showcase Video](https://video.rit.edu/Watch/Si56JxGd) - projects are shown starting at 5:00
-* Example of Twitter Bot HW we'll do (it runs on Heroku) -> https://twitter.com/CarlosD46246555
+* Example of "Twitter Bot" HW we'll do (it runs on Heroku) -> https://twitter.com/CarlosD46246555
 * Check the *Content* section of mycourses.rit.edu for "done" in-class demo files
 * Check the mycourses.rit.edu dropboxes to see what is assigned and when it is due
 
