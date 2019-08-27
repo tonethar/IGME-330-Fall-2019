@@ -1,4 +1,4 @@
-# IGME-330 - Fall 2018: Topics & Outcomes
+# IGME-330 - Fall 2019: Topics & Outcomes
 
 ## I. Basic JavaScript & Browser DOM
 This material is review you need to do on your own - most of this is now taught in IGME-230
@@ -27,8 +27,12 @@ This material is review you need to do on your own - most of this is now taught 
 - analyzer nodes: frequency and time domain
 - convolutions
 
-## V. MVVM (Model View View-Model) Frameworks
+## V. Text
+- working with both unstructured and structured text
+- Node.js, Hieroku, Twitter Bot HW
+
+## VI. MVVM (Model View View-Model) Frameworks
 - Vue.js framework (similar to React and Angular, but easier to get started with)
 
-## VI. Storing Data in the cloud
+## VII. Storing Data in the cloud
 - Firebase
