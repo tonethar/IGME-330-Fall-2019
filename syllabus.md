@@ -93,8 +93,8 @@ Incomplete grades will be given only in the most exceptional circumstances, sole
 - **Duplicate submission** is the submitting of the same or similar work for credit in more than one course without prior approval of the instructors for those same courses. *If you took IGME-330 previously, you **may not hand** in code that you previously submitted (for example, a previous version Project 1 Audio Visualizer)*
 
 ## VII. Important RIT Deadlines
-- Last day of add/drop is Tuesday January 22nd, 2019.
-- Last day to withdraw with a grade of "W" is Friday April 5th, 2019.
+- Last day of add/drop is Tuesday September 3rd, 2019.
+- Last day to withdraw with a grade of "W" is Friday November 8th, 2019.
 - You have one semester after the class has ended to challenge your grade. 
 
 ## VIII. Notices of Accommodation
