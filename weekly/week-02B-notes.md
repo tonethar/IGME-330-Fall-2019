@@ -7,9 +7,9 @@ Today we will:
 - look at the Canvas drawing state "stack", and use cases for `ctx.save()` and `ctx.restore()`
 
 ## II. Required Reading & Assignments
-* Try It! HW -> [HW-try-it.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-try-it.md)
-* Canvas Procedural Artwork with "Helper" Functions HW -> [HW-canvas-helpers.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-helpers.md)
-* Drawing App HW -> [HW-drawing-app.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-drawing-app.md)
+* Try It! *Optional Exercise* -> [HW-try-it.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-try-it.md)
+* Canvas Procedural Artwork with "Helper" Functions *Optional Exercise* -> [HW-canvas-helpers.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-helpers.md)
+* Drawing App HW (get started on this if you have time) -> [HW-drawing-app.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-drawing-app.md)
 
 
 ## III. Presentation
