@@ -11,7 +11,7 @@
 
 ### Section 01
 - Professor: Tony Jefferson  
-- Teaching Assistant: :-(
+- Teaching Assistant: Coehl Gleckner
 - Office:  GOL-2525 (IGM "hall")
 - Email: tony@mail.rit.edu
 - Office hours:
