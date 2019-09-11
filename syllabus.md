@@ -21,7 +21,7 @@
 
 ### Section 02
 - Professor: Tony Jefferson  
-- Teaching Assistant: :-(
+- Teaching Assistant: Dillon Chan 
 - Office:  GOL-2525 (IGM "hall")
 - Email: tony@mail.rit.edu
 - Office hours:
