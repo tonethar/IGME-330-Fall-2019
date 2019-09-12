@@ -1,7 +1,6 @@
 # Week 3B - Canvas Images & Blending Modes
 
 ## I. Overview
-- Review [HW-canvas-helpers.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-helpers.md)
 - In 3 weeks we have covered the following canvas concepts:
   - getting a reference to the drawing "context" (a `CanvasRenderingContext2D` object) with `canvas.getContext('2d')`
   - setting drawing state attributes like `.fillStyle`, `.strokeStyle`, `.globalAlpha` and so on
