@@ -18,6 +18,7 @@
 - [HW - Audio Visualizer - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-1.md)
 - [HW - Audio Visualizer - Part II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2.md)
 - [HW - Audio Visualizer - Part III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-3.md)
+- [Optional Extra Credit: Canvas Helpers](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-helpers.md)
 
 ## III. Presentation
 
