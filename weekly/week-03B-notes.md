@@ -27,6 +27,7 @@
   - The method we will use is [ctx.drawImage()](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/drawImage)
     - this method can be used to draw a whole image, or just a part of it. It can also be used to scale the image either up or down in size
   - see the **canvas-image-demo.html** file below:
+    - it covers how to pre-load a single image into the browser. If we don't pre-load our images before we attempt to draw them, they won't appear on the screen!
     - it covers how to sample from and scale an image
     - be sure to look over how we use transforms to get some nice tiling effects
     - a nice thought experiment would be to think about how we could modify the code to download multiple images with our "pre-loader", instead of just one image
