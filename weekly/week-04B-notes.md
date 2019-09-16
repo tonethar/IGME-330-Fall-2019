@@ -1,8 +1,8 @@
 # Week 4B - Canvas Bitmap Effects
 
 ## I. Overview
-- Today we will look at how to manipulate image data to create simple Photoshop effects like tinting and noise
-- To see more advanced effects such as *embossing*, refer to Part II of the Audio Visualizer HW.
+- Today we will look at how to manipulate image data to create simple Photoshop effects like tinting and noise. This is also covered in [HW - Audio Visualizer - Part II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-AV-2.md)
+- We will also being improving the *architecture* of our web apps, by utilizing ES6 classes and factoring code out into separate JS files
 
 ## II. Presentation
 - Review [Optional Extra Credit: Canvas Helpers](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-canvas-helpers.md) submissions
