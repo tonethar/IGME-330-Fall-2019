@@ -71,7 +71,7 @@ VI. [Screenshots](#VI)
      - https://people.rit.edu/tjc3255/330/audio-visualizer/audio-visualizer-project.html
      - http://igm.rit.edu/~acjvks/courses/2015-fall/330/demos/p1-demo/web-audio-example.html
    - 2165 and older:
-     - Conway's Game of Life Visalizer --> https://www.csh.rit.edu/~aidan/audioVisualizer/index.html
+     - Conway's Game of Life Visualizer --> https://www.csh.rit.edu/~aidan/audioVisualizer/index.html
  
 <a id="II"></a>
 
