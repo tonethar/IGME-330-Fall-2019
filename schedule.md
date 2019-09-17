@@ -11,7 +11,7 @@
 - [Week 02 (Sep 02) : Intro to Canvas Drawing API & Affine Transforms](#week2)
 - [Week 03 (Sep 09) : More Canvas & Drawing Images & Blending Modes](#week3)
 - [Week 04 (Sep 16) : WebAudio API & Manipulating Bitmap data](#week4)
-- [Week 05 (Sep 23) : Work on Audio Visualizer Project / ES5 Revealing Module Pattern](#week5)
+- [Week 05 (Sep 23) : Work on Audio Visualizer Project / ES6 Module Pattern](#week5)
 - [Week 06 (Sep 30) : Review Project 1 Prototypes / Sprites and Delegation](#week6)
 - [Week 07 (Oct 07) : Finish Project 1 / Midterm Exam](#week7)
 - [Week 08 (Oct 14) : Begin Computational Text Unit](#week8)
