@@ -66,7 +66,6 @@ VI. [Screenshots](#VI)
      - https://people.rit.edu/bev4807/330/exercises/audio-visualizer-project/audio-visualizer-project.html
      - https://people.rit.edu/rep4975/330/project1/audio_visualizer.html
      - https://people.rit.edu/etn6701/330/Project%201/
-     - https://people.rit.edu/pfw4498/330/projects/audioViz/wilsonAudioVizProject.html
      - https://people.rit.edu/sbm7101/330/projects/MayerWalker_AudioViz/WalkerMayer_AudioViz.html
      - https://people.rit.edu/bfc6072/330/projects/Project1_Audio_Visualizer/Audio_Visualizer.html
      - https://people.rit.edu/tjc3255/330/audio-visualizer/audio-visualizer-project.html
