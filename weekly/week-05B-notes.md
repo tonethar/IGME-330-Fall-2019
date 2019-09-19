@@ -1,4 +1,4 @@
-# Week 5B - JavaScript IIFE & Revealing Module Pattern
+# Week 5B - JavaScript ES6 Module Pattern
 
 ## I. Overview & Presentation
 
