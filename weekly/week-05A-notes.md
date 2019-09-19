@@ -12,7 +12,7 @@ Today we'll discuss some potential enhancements to our audio visualizer project 
 1. True or False. An *analyser node* modifies the audio data
 1. If we request 32 samples from a sound, how many elements will be present in the typed array we get back?
 1. Give 3 differences between a typical JS Array created with `[]`, and a JS *typed array* such as a `Uint8Array`
-1. What is an [OscillatorNode](https://developer.mozilla.org/en-US/docs/Web/API/OscillatorNode)?
+1. What is an [OscillatorNode](https://developer.mozilla.org/en-US/docs/Web/API/OscillatorNode)? (If we didn't do so last week, we will demo that now - see mycourses for the "violent-theremin" code in the *Web Audio Examples* ZIP)
 1. Give 3 possible sources for a "source node"
 1. What does a "destination node" typically point at?
 
