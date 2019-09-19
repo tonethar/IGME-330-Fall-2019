@@ -11,7 +11,7 @@
 - [Week 02 (Sep 02) : Intro to Canvas Drawing API & Affine Transforms](#week2)
 - [Week 03 (Sep 09) : More Canvas & Drawing Images & Blending Modes](#week3)
 - [Week 04 (Sep 16) : WebAudio API & Manipulating Bitmap data](#week4)
-- [Week 05 (Sep 23) : Work on Audio Visualizer Project / ES6 Module Pattern](#week5)
+- [Week 05 (Sep 23) : More Web Audio / ES6 Module Pattern](#week5)
 - [Week 06 (Sep 30) : Review Project 1 Prototypes / Sprites and Delegation](#week6)
 - [Week 07 (Oct 07) : Finish Project 1 / Midterm Exam](#week7)
 - [Week 08 (Oct 14) : Begin Computational Text Unit](#week8)
@@ -41,9 +41,9 @@
   - [Week 4A - Web Audio API](weekly/week-04A-notes.md)
   - [Week 4B - Canvas Bitmap Effects](weekly/week-04B-notes.md)
  
-## <a id="week5">Week 5 : Work on Audio Visualizer Project / ES5 Revealing Module Pattern
+## <a id="week5">Week 5 : More Web Audio / ES6 Module Pattern
   - [Week 5A - Tuning up our Audio Visualizers](weekly/week-05A-notes.md)
-  - [Week 5B - JavaScript IIFE & Revealing Module Pattern](weekly/week-05B-notes.md)
+  - [Week 5B - ES6 Module Pattern](weekly/week-05B-notes.md)
  
 ## <a id="week6">Week 6 : Look at Project 1 Prototypes / Sprites and Delegation
   - [Week 6A - Review Audio Visualizer Prototypes](weekly/week-06A-notes.md)
