@@ -30,8 +30,29 @@
 
 ### II-A. Custom `audioGraph` object literal
 
+- The main **index.html** page of the AudioVisualizer HW has a bunch of variables cluttering up the code:
+- How about wrapping all of those up into an object, and pushing off the creation code into another 
+
+**audio-utils.js**
 ```js
-//
+export {createAudioGraph};
+
+function createAudioGraph(){
+  let audioGraph = {};
+	audioGraph.ctx = ///
+	audioGraph.analyzerNode = //
+	audioGraph.trebleNode = //
+	
+	return Object.freeze(audioGraph);
+}
+```
+
+**main.js**
+```
+// main.js
+import {createAudioGraph} from "./audio-utils.js"
+
+let myAudioGraph = createAudioGraph();
 ```
 
 ## III. Project 1
