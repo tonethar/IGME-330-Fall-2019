@@ -3,7 +3,7 @@
 <a id="review"></a>
 
   
-## I1. Project 2 (The Final Project)
+## I. Project 2 (The Final Project)
 
 - Just a preview of where we are headed - don't worry - it's not due until finals week: [Project 2 - MVVM Web App Mashup of Awesomeness!](../projects/project-2.md)
   
