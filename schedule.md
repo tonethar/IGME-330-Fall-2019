@@ -12,7 +12,7 @@
 - [Week 03 (Sep 09) : More Canvas & Drawing Images & Blending Modes](#week3)
 - [Week 04 (Sep 16) : WebAudio API & Manipulating Bitmap data](#week4)
 - [Week 05 (Sep 23) : More Web Audio / ES6 Module Pattern](#week5)
-- [Week 06 (Sep 30) : Review Project 1 Prototypes / Sprites and Delegation](#week6)
+- [Week 06 (Sep 30) : Review Project 1 Prototypes / JS Prototype Chain & Delegation](#week6)
 - [Week 07 (Oct 07) : Finish Project 1 / Midterm Exam](#week7)
 - [Week 08 (Oct 14) : Begin Computational Text Unit](#week8)
 - [Week 09 (Oct 21) : Computational Text Libraries](#week9)
@@ -47,15 +47,15 @@
  
 ## <a id="week6">Week 6 : Look at Project 1 Prototypes / Sprites and Delegation
   - [Week 6A - Review Audio Visualizer Prototypes](weekly/week-06A-notes.md)
-  - [Week 6B - ES5/ES6 "Sprites" & Delegation](weekly/week-06B-notes.md)
+  - [Week 6B - JS Prototype Chain & Delegation](weekly/week-06B-notes.md)
  
 ## <a id="week7">Week 7 : Finish Project 1 / Midterm Exam
   - [Week 7A - Review Project 1 Submissions](weekly/week-07A-notes.md)
-  - [Week 7B - Loading and Parsing Text](weekly/week-07B-notes.md)
+  - [Week 7B - Midterm Exam](weekly/week-07B-notes.md)
  
 ## <a id="week8">Week 8 : Begin Computational Text Unit
   - [Week 8A - Text & Computation / Review for Midterm](weekly/week-08A-notes.md)
-  - [Week 8B - Midterm Exam](weekly/week-08B-notes.md)
+  - [Week 8B - XXX](weekly/week-08B-notes.md)
   
 ## <a id="week9">Week 9 :  Computational Text Libraries
   - [Week 9A - RiTa](weekly/week-09A-notes.md)
