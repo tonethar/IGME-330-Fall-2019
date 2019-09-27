@@ -3,9 +3,6 @@
 ## I. Overview & Agenda
 - ***Reminder: The midterm exam is next time!*** Here are some study resources, including a sample exam --> [midterm-exam-review.md](../exams/midterm-exam-review.md)
 - Look at Project 1 Submissions
-- Begin Computational Text Unit:
-  - [1 - Loading Plain Text](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-1.md)
-  - [HW - Palindrome Detector](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-palindrome-detector.md)
 
 ## II. Review Questions <a id="review-questions"></a> from last time
 
