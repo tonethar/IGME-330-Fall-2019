@@ -1,4 +1,4 @@
-# Week 8 
+# Week 8 - Loading and Parsing Text
 
 ## I. Overview & Agenda
 
@@ -16,3 +16,9 @@
 
 - [HW - Palindrome Detector](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-palindrome-detector.md)
 - [HW - Word Cloud](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-word-cloud.md)
+
+<hr><hr>
+
+| <-- Previous Unit | Home | Next Unit -->
+| --- | --- | --- 
+| [**week-07B-notes.md**](week-07B-notes.md)     |  [**IGME-330 Schedule**](../schedule.md) | [**week-09-notes.md**](week-09A-notes.md)
