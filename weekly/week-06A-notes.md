@@ -6,6 +6,14 @@
 
 ## II. Review Questions <a id="review-questions"></a>
 
+1) True or False. JavaScript code written inside of an ES6 Module runs in *strict mode* by default
+
+1) True or False. JavaScript code written inside of an ES6 Module runs in *strict mode* by default
+
+1) True or False. JavaScript code written inside of an ES6 Module is 
+
+## III. Writing 
+
 
 
 <hr><hr>
