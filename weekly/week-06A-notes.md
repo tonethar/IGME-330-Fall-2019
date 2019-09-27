@@ -28,7 +28,7 @@
 
 ## II. Writing maintainable code
 
-- The Audio Visualizer HW code is "not scalable" demo code that should be refactored when used in your Project 1's - let's look at some examples of things we could do:
+- The Audio Visualizer HW code is "not scalable" demo code. It should be refactored when used in your Project 1's - let's look at some examples of things we could do:
 
 ### II-A. Custom `audioGraph` object literal
 
