@@ -17,7 +17,9 @@
 7) *Modular programming* is the process of subdividing a computer program into separate sub-programs. Modules have the following characteristics:
 
   A) enforce logical boundaries between components and improve maintainability
+  
   B) are implemented through interfaces (i.e. publicly available methods or properties)
+  
   C) are designed in such a way as to minimize dependencies between different modules
 
 - **Describe how A above is reflected in ES6 Modules**
