@@ -14,7 +14,7 @@
 ```
 
 - even with the wide availability of ES6 modules, there are still use cases for the IIFE
-- let's go ahead and demo this technique on one of the AV homeworks
+- let's go ahead and demo this technique (if we have not previously done so) on one of the AV homeworks
 
 <hr>
 
