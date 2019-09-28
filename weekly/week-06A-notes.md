@@ -20,7 +20,7 @@
 
 ## II. Review Questions (ES6 Modules) <a id="review-questions"></a>
 
-- Here are some review questions related to ES6 modules - you might see some of these on the midterm exam (which is on 7B)!
+**Here are some review questions related to ES6 modules - you might see some of these on the midterm exam (which is on 7B)!**
 
 1) **True or False.** With JavaScript ES Module syntax, there is exactly one module per file and one file per module
 
