@@ -2,7 +2,7 @@
 
 
 
-## I. Review Questions (ES6 Modules) <a id="review-questions"></a>
+## II. Review Questions (ES6 Modules) <a id="review-questions"></a>
 
 1) **True or False.** With JavaScript ES Module syntax, there is exactly one module per file and one file per module
 
@@ -28,38 +28,72 @@
 - **Describe how B above is reflected in ES6 Module Syntax (*i.e. which keyword?*)**
 - **Describe how C above is reflected in ES6 Module Syntax (*i.e. which keyword?*)**
 
-## II. Writing maintainable code
+## III. Writing maintainable code
 
-- The Audio Visualizer HW code is "not scalable" demo code. It should be refactored when used in your Project 1's - let's look at some examples of things we could do:
+- The Audio Visualizer HW code is "not scalable" demo code. It should be refactored when used in your Project 1's - let's look at some ideas of things we could do:
 
-### II-A. Custom `audioGraph` object literal
+### III-A. Refactor code into separate files
 
-- The main **index.html** page of the AudioVisualizer HW has a bunch of variables cluttering up the code:
-- How about wrapping all of those up into an object, and pushing off the creation code into another 
+- Re-factor your code and put it into multiple files:
+  - **loader.js**
+  - **main.js**
+  - **utils.js** - move `makeColor()` and `requestFullscreen()` here. Create a new helper function named `createAudioGraph()`?
+  - **canvas-utils.js** - here are some helper function ideas - `showCircle()` and `showPixelEffects()`
 
-**audio-utils.js**
+<hr>
+
+### III-B. Group related variables into Object literals
+
+- The standard AV-2 HW has 15 variables scoped outside of any function definition - we could instead group them together:
+
 ```js
-export {createAudioGraph};
+let params = Object.seal({
+	invert 			: false,
+	tintRed 		: false, 
+	noise 			: false, 
+	lines 			: false,
+	brightnessAmount 	: 0,
+	maxRadius		: 200
+});
+```
 
-function createAudioGraph(){
-  let audioGraph = {};
-	audioGraph.ctx = ///
-	audioGraph.analyzerNode = //
-	audioGraph.trebleNode = //
-	
-	return Object.freeze(audioGraph);
+**AND**
+
+```js
+const Sounds = Object.freeze({
+	sound_1: 'media/New Adventure Theme.mp3',
+	sound_2: 'media/Peanuts Theme.mp3',
+	sound_3: 'media/The Picard Song.mp3'
+});
+```
+
+- Converting these freestanding variables to properties of an object declutters our code
+- `Object.seal()` and `Object.freeze()` also add compiler checks:
+  - if we mistakenly add any properties to the `params` object (by misspelling a property name for example) we will get a runtime error
+  - additionally, if we mistakenly modify any properties of the `Sound` object, we will get a runtime error
+
+<hr>
+
+### III-C. Create helper functions to reduce duplication of code
+
+- AV-2 is duplicating a bunch of code when it draws the 3 sets of circles - how about refactoring this code into a helper function - something like this:
+
+```js
+function showCircle(ctx,x,y,radius,color){
+  ctx.save();
+  // draw a circle of the desired radius and color
+  ctx.restore();
 }
 ```
 
-**main.js**
-```
-// main.js
-import {createAudioGraph} from "./audio-utils.js"
 
-let myAudioGraph = createAudioGraph();
-```
+<hr>
+  
 
-## III. Project 1
+
+
+
+## IV. Project 1
 - Look at [Project 1 - Audio Visualizer](../projects/project-1.md) prototypes
 
 
