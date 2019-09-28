@@ -8,8 +8,8 @@
 - The base syntax of an IIFE looks like this:
 
 ```js
-(function () {
-    // code goes here
+(function(){
+    // code goes here - won't be visible in the containing scope
 })();
 ```
 
