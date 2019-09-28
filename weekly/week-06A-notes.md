@@ -1,4 +1,4 @@
-# Week 6A - Wrap up Modules / Look at Audio Visualizer Prototypes
+# Week 6A - Wrap up Modules / Audio Visualizer Prototypes
 
 ## I. IIFE - "Immediately Invoke Function Expressions"
 
