@@ -30,7 +30,9 @@
 
 ## III. Writing maintainable code
 
-- The Audio Visualizer HW code is "not scalable" demo code. It should be refactored when used in your Project 1's - let's look at some ideas of things we could do:
+- The Audio Visualizer HW code is "not scalable" demo code. It should be refactored when used in your Project 1's - let's look at some ideas of things we could do.
+
+<hr>
 
 ### III-A. Refactor code into separate files
 
@@ -74,22 +76,64 @@ const Sounds = Object.freeze({
 
 <hr>
 
-### III-C. Create helper functions to reduce duplication of code
+### III-C. Create a helper function to reduce duplication of code and facilitate reuse
 
 - AV-2 is duplicating a bunch of code when it draws the 3 sets of circles - how about refactoring this code into a helper function - something like this:
 
 ```js
 function showCircle(ctx,x,y,radius,color){
   ctx.save();
+  
   // draw a circle of the desired radius and color
+  
   ctx.restore();
+}
+```
+
+**AND**
+
+```js
+function showPixelEffects(imageData,params){
+  let data = imageData.data;
+  let length = data.length;
+  let width = imageData.width;
+	
+  // do a bunch of stuff
+
+  return imageData;
 }
 ```
 
 
 <hr>
   
+### III-D. Create a helper function to reduce clutter
 
+- We can group all of our audio related objects and nodes under one object:
+
+```js
+function createAudioGraph(audioElement,numSamples){
+  // 1 - create new AudioContext
+  let ctx = new (window.AudioContext || window.webkitAudioContext);
+	
+  // 2 - create a source node for our audio routing graph
+  let sourceNode = ctx.createMediaElementSource(audioElement); 
+	
+  // do a bunch of stuff
+	
+  // 6 - create our object (with ES6 shorthand property notation)
+  let audioGraph = {
+    audioElement,
+    ctx,
+    sourceNode,
+    bassNode,
+    analyserNode
+  };
+	
+  // 7 - freeze the object and send it back
+  return Object.freeze(audioGraph);
+}
+```
 
 
 
