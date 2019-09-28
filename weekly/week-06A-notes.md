@@ -90,7 +90,7 @@ const Sounds = Object.freeze({
 ```
 
 - Converting these freestanding variables to properties of an object declutters our code
-- `Object.seal()` and `Object.freeze()` also add compiler checks:
+- [`Object.seal()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/seal) and [`Object.freeze()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze) also add compiler checks:
   - if we mistakenly add any properties to the `params` object (by misspelling a property name for example) we will get a runtime error
   - additionally, if we mistakenly modify any properties of the `Sound` object, we will get a runtime error
 
