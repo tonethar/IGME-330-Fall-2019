@@ -16,6 +16,8 @@
 - even with the wide availability of ES6 modules, there are still use cases for the IIFE
 - let's go ahead and demo this technique on one of the AV homeworks
 
+<hr>
+
 ## II. Review Questions (ES6 Modules) <a id="review-questions"></a>
 
 - Here are some review questions related to ES6 modules - you might see some of these on the midterm exam (which is on 7B)!
@@ -43,6 +45,8 @@
 - **Describe how A above is reflected in ES6 Modules**
 - **Describe how B above is reflected in ES6 Module Syntax (*i.e. which keyword?*)**
 - **Describe how C above is reflected in ES6 Module Syntax (*i.e. which keyword?*)**
+
+<hr>
 
 ## III. Writing maintainable code
 
@@ -92,7 +96,7 @@ const Sounds = Object.freeze({
 
 <hr>
 
-### III-C. Create a helper function to reduce duplication of code and facilitate reuse
+### III-C. Create helper functions to reduce duplication of code and facilitate reuse
 
 - AV-2 is duplicating a bunch of code when it draws the 3 sets of circles - how about refactoring this code into a helper function - something like this:
 
