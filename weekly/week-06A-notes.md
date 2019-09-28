@@ -1,8 +1,24 @@
 # Week 6A - Wrap up Modules / Look at Audio Visualizer Prototypes
 
+## I. IIFE - "Immediately Invoke Function Expressions"
 
+- Last time we looked at ES6 modules as a way to create per-file privacy of variables, functions, and classes
+- An older technique that works in any version of JavaScript is the [IIFE - "Immediately Invoke Function Expression"](https://developer.mozilla.org/en-US/docs/Glossary/IIFE) - which wraps code inside of a function - therefore making it inaccessible (private) outside of this containing function.
+
+- The base syntax of an IIFE looks like this:
+
+```js
+(function () {
+    // code goes here
+})();
+```
+
+- even with the wide availability of ES6 modules, there are still use cases for the IIFE
+- let's go ahead and demo this technique on one of the AV homeworks
 
 ## II. Review Questions (ES6 Modules) <a id="review-questions"></a>
+
+- Here are some review questions related to ES6 modules - you might see some of these on the midterm exam (which is on 7B)!
 
 1) **True or False.** With JavaScript ES Module syntax, there is exactly one module per file and one file per module
 
@@ -135,7 +151,7 @@ function createAudioGraph(audioElement,numSamples){
 }
 ```
 
-
+<hr>
 
 ## IV. Project 1
 - Look at [Project 1 - Audio Visualizer](../projects/project-1.md) prototypes
