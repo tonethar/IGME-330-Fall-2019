@@ -1,6 +1,8 @@
-# Week 6A - Look at Audio Visualizer Prototypes
+# Week 6A - Wrap up Modules / Look at Audio Visualizer Prototypes
 
-## I. Review Questions (ES 6 Modules) <a id="review-questions"></a>
+
+
+## I. Review Questions (ES6 Modules) <a id="review-questions"></a>
 
 1) **True or False.** With JavaScript ES Module syntax, there is exactly one module per file and one file per module
 
