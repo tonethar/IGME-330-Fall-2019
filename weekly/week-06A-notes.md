@@ -3,7 +3,7 @@
 ## I. IIFE - "Immediately Invoke Function Expressions"
 
 - Last time we looked at ES6 modules as a way to create per-file privacy of variables, functions, and classes
-- An older technique that works in any version of JavaScript is the [IIFE - "Immediately Invoke Function Expression"](https://developer.mozilla.org/en-US/docs/Glossary/IIFE) - which wraps code inside of a function - therefore making it inaccessible (private) outside of this containing function.
+- An older technique that works in any version of JavaScript is the [IIFE - "Immediately Invoke Function Expression"](https://developer.mozilla.org/en-US/docs/Glossary/IIFE) - pronounced "Iffy" - which wraps code inside of a function - therefore making it inaccessible (private) outside of this containing function.
 
 - The base syntax of an IIFE looks like this:
 
