@@ -119,11 +119,12 @@ E) script
 
 F) module
 
+<hr>
 
 4. What is the scope of variable `myNum` below?
 
 ```js
-<script>
+<script type="module">
 	const myNum = 0;
 
 	function init(){
