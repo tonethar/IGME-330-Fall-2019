@@ -13,7 +13,7 @@
 - [Week 04 (Sep 16) : WebAudio API & Manipulating Bitmap data](#week4)
 - [Week 05 (Sep 23) : More Web Audio / ES6 Module Pattern](#week5)
 - [Week 06 (Sep 30) : Review Project 1 Prototypes / JS Prototype Chain & Delegation](#week6)
-- [Week 07 (Oct 07) : Finish Project 1 / Midterm Exam](#week7)
+- [Week 07 (Oct 07) : Review Project 1 Prototypes / Midterm Exam](#week7)
 - [Week 08 (Oct 14) : Begin Computational Text Unit](#week8)
 - [Week 09 (Oct 21) : Computational Text Libraries](#week9)
 - [Week 10 (Oct 28) : Web Services + ES6 Modules](#week10)
@@ -45,7 +45,7 @@
   - [Week 5A - Tuning up our Audio Visualizers](weekly/week-05A-notes.md)
   - [Week 5B - ES6 Module Pattern](weekly/week-05B-notes.md)
  
-## <a id="week6">Week 6 : Look at Project 1 Prototypes / Sprites and Delegation
+## <a id="week6">Week 6 : Look at Project 1 Prototypes / JS prototype chain
   - [Week 6A - Wrap up Modules / Audio Visualizer Prototypes](weekly/week-06A-notes.md)
   - [Week 6B - JS Prototype Chain & Delegation](weekly/week-06B-notes.md)
  
