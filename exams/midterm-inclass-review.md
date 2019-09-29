@@ -63,6 +63,8 @@ D) property
 
 E) script
 
+F) module
+
 <hr>
 
 2. What is the scope of variable `myNum` below?
@@ -88,6 +90,7 @@ D) property
 
 E) script
 
+F) module
 
 <hr>
 
@@ -114,7 +117,7 @@ D) property
 
 E) script
 
-
+F) module
 
 
 4. What is the scope of variable `myNum` below?
@@ -139,6 +142,7 @@ D) property
 
 E) script
 
+F) module
 
 <hr>
 
@@ -167,6 +171,7 @@ D) property
 
 E) script
 
+F) module
 
 <hr>
 
@@ -190,6 +195,8 @@ C) global
 D) property
 
 E) script
+
+F) module
 
 <hr>
 
@@ -216,6 +223,8 @@ C) global
 D) property
 
 E) script
+
+F) module
 
 <hr>
 
