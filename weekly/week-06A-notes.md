@@ -26,7 +26,7 @@
 
 1) **True or False.** With JavaScript ES Module syntax, there is exactly one module per file and one file per module
 
-2) **True or False.** One disadvantage of ES6 modules is that in general you will need to have a lot more &lt;script> tags in your HTML file
+2) **True or False.** One *disadvantage* of ES6 modules is that in general you will need to have a lot more &lt;script> tags in your HTML file
 
 3) How do you "tell" your HTML file that a particular JavaScript file is an ES6 Module (as opposed to being a regular JS file)? 
 
