@@ -2,8 +2,7 @@
 
 ## 0. Midterm Exam
 - The midterm exam is in one week 
-  - [midterm-exam-review.md](../exams/midterm-exam-review.md)
-  - let's look at these review questions before we get going today - 
+  - [midterm-exam-review.md](../exams/midterm-exam-review.md) - let's look at these review questions & resources before we get going today
 
 ## I. Overview
 - Sprites (using either Object literals, or ES6 classes) are an optional component of Project 1, and whether you use them or not on your project, understanding how the JavaScript runtime engines represent classes and objects is critical for JS developers to understand.
