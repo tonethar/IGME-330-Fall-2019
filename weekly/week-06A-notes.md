@@ -18,7 +18,9 @@
 
 <hr>
 
-## II. Review Questions (ES6 Modules) <a id="review-questions"></a>
+<a id="review-questions"></a>
+ 
+## II. Review Questions (ES6 Modules)
 
 **Here are some review questions related to ES6 modules - you might see some of these on the midterm exam (which is on 7B)!**
 
