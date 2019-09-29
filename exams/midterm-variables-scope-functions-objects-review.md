@@ -232,8 +232,8 @@ F) module
 
 <hr>
 
-- Note: questions #8 - #12 below are mostly illustrating "`var` weirdness" and the effects of variable *hoisting*
-- We will not be asking you a lot of `var` questions on the midterm as we are discouraging it's use in this course
+- **Note: questions #8 - #12 below are mostly illustrating "`var` weirdness" and the effects of variable *hoisting***
+- **We will not be asking you a lot of `var` questions on the midterm as we are discouraging it's use in this course**
 
 <hr>
 
