@@ -3,10 +3,11 @@
 ## I. Overview
 
 **When:**
-- Thursday 3/7/19 - start of class
+- Sections 01 & 02 - Thursday 10/10/19 - start of class
+- Section 03 - Wednesday 10/09/19 - start of class
 
 **What is tested:**
-- Everything we've covered this semester so far, either in the Study Guides, in-class exercises, or lectures/demos is fair game - from [week 1A](../weekly/week-01A-notes.md) to [week 7B](../weekly/week-07B-notes.md)
+- Everything we've covered this semester so far, either in the Study Guides, in-class exercises, or lectures/demos is fair game - from [week 1A](../weekly/week-01A-notes.md) to [week 7A](../weekly/week-07A-notes.md)
 
 **What else:**
 - No make up's allowed without prior permission.
@@ -27,7 +28,7 @@
 - **Note:** Some of these JavaScript concepts are covered in these IGME-230 notes:
   - IGME-230 JavaScript Web App notes: https://github.com/tonethar/IGME-230-GDD-Spring-2018/blob/master/notes/web-apps-0.md
   - An intro to ES6 classes is here: https://github.com/tonethar/IGME-230-Master/blob/master/notes/pixi-js-2.md
-- All of our **weekly notes** beginning with [week-01A-notes.md](../weekly/week-01A-notes.md) and ending with [week-07B-notes.md](../weekly/week-07B-notes.md)
+- All of our **weekly notes** beginning with [week-01A-notes.md](../weekly/week-01A-notes.md) and ending with [week-07A-notes.md](../weekly/week-07A-notes.md)
 - All of our **in-class demos** - which are linked from the weekly notes above
 - All of our **HW assignments** - which are linked from the weekly notes above
 
@@ -85,7 +86,7 @@
 ### E. JavaScript Concepts
 - see IGME-230 sample questions [here - Section III-B and onward](https://github.com/tonethar/IGME-230-GDD-2018-Spring/blob/master/notes/final-exam-review.md)
 - variables - `var`, `let`, `const`
-- scope - function, block, global, script, <s>module</s> (we didn't cover this last one yet)
+- scope - function, block, global, script, module
 - "hoisting" - when are variables available when using `var` or `let` or `function`?
 - "use strict"
 - reference types v. value types
@@ -95,6 +96,7 @@
 - ES6 arrow functions
 - looping through arrays
 - passing data from HTML elements to JavaScript: [HW-shape-viewer.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-shape-viewer.md)
-- ES5 revealing Module Pattern
-- Protypical Inheritance
 - ES6 Classes
+- ES6 Module Pattern
+- Protypical Inheritance
+
