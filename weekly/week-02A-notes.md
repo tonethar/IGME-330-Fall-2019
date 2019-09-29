@@ -17,7 +17,9 @@ Today we will:
 * Study Guide-2 -> [HW-SG-2.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-SG-2.md)
 * Start file for today's demo is here -> [canvas-start.md](_files/canvas-start.md)
 
-## III. Review of last week's JavaScript concepts <a id="review-questions"></a>
+<a id="review-questions"></a>
+
+## III. Review of last week's JavaScript concepts
 
 - **You should be able to answer these questions!**
 - ***Can you believe we are reviewing for the midterm exam already?!***
