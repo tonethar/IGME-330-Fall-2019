@@ -51,6 +51,7 @@ Today we'll discuss some potential enhancements to our audio visualizer project 
   - try to do something interesting for the "curves" requirement - not just a single bouncing control point - here's an example done entirely with `ctx.bezierCurveTo()` - "Ratio Schmatio" looks pretty good on it: http://igm.rit.edu/~acjvks/courses/2018-spring/330/code-examples/viz/web-audio-4B-demo/three-spirographs.html
   - the UI should follow general CRAP principles covered elsewhere
   - you MAY use a library for your UI such as **dat.gui.js**, which is a popular lightweight GUI library  -> https://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage
+  - not everything has to happen at 60FPS - you can update certain animations/effects less frequently
 
 
 ## V. Demo
