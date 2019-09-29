@@ -1,7 +1,7 @@
 # Week 6B - The JavaScript Prototype Chain & Delegation
 
-## I. Midterm Exam
-- The midterm exam is in one week 
+## I. Midterm Exam!
+- The midterm exam is in one week:
   - [midterm-exam-review.md](../exams/midterm-exam-review.md) - let's look at these review questions & resources before we get going today
 
 ## II. Overview
