@@ -3,7 +3,9 @@
 ## I. Overview
 Today we'll discuss some potential enhancements to our audio visualizer project - [Project 1 - Audio Visualizer](../projects/project-1.md)
 
-## II. Review Questions <a id="review-questions"></a>
+<a id="review-questions"></a>
+ 
+## II. Review Questions
 
 - We covered these concepts last week:
 
