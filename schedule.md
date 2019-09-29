@@ -46,16 +46,15 @@
   - [Week 5B - ES6 Module Pattern](weekly/week-05B-notes.md)
  
 ## <a id="week6">Week 6 : Look at Project 1 Prototypes / Sprites and Delegation
-  - [Week 6A - Review Audio Visualizer Prototypes](weekly/week-06A-notes.md)
+  - [Week 6A - Wrap up Modules / Audio Visualizer Prototypes](weekly/week-06A-notes.md)
   - [Week 6B - JS Prototype Chain & Delegation](weekly/week-06B-notes.md)
  
 ## <a id="week7">Week 7 : Finish Project 1 / Midterm Exam
-  - [Week 7A - Review Project 1 Submissions](weekly/week-07A-notes.md)
+  - [Week 7A - Review Project 1 Checkpoint #2](weekly/week-07A-notes.md)
   - [Week 7B - Midterm Exam](weekly/week-07B-notes.md)
  
-## <a id="week8">Week 8 : Begin Computational Text Unit
-  - [Week 8A - Text & Computation / Review for Midterm](weekly/week-08A-notes.md)
-  - [Week 8B - XXX](weekly/week-08B-notes.md)
+## <a id="week8">Week 8 : Review midterm/ Project 1 / Begin Computational Text Unit
+  - [Week 8 - Text & Computation](weekly/week-08-notes.md)
   
 ## <a id="week9">Week 9 :  Computational Text Libraries
   - [Week 9A - RiTa](weekly/week-09A-notes.md)
