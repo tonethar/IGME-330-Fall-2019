@@ -32,7 +32,7 @@
 
 4) **True or False.** JavaScript code written inside of an ES6 Module runs in *strict mode* by default
 
-5) **True or False.** JavaScript code written inside of an ES6 Module is *private* (not visible from outside the module) by default. This includes variables & functions declared with `let, `var`, and `const`, as well as functions declared with the `function` keyword
+5) **True or False.** JavaScript code written inside of an ES6 Module is *private* (not visible from outside the module) by default. This includes variables & functions declared with `let`, `var`, and `const`, as well as functions declared with the `function` keyword
 
 6) **True or False.** It is possible to create a *global* variable (i.e. visible on the `window` object) from within an ES6 Module
 
