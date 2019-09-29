@@ -37,8 +37,11 @@ VII. Answer Sheet
 - "Redeclaring the same variable (with `let`) within the same function or block scope raises a SyntaxError"
 - `let` bindings are created at the top of the (block) scope containing the declaration, commonly referred to as "hoisting". Unlike variables declared with var, which will start with the value undefined, let variables are not initialized until their definition is evaluated. Accessing the variable before the initialization results in a `ReferenceError`. The variable is in a "temporal dead zone" from the start of the block until the initialization is processed.
 
+### I-C. Declaring variables inside of ES6 Modules
 
-### I-C. Questions on Variable Scope
+JavaScript code written inside of an ES6 Module is *private* (not visible from outside the module) by *default*. This includes variables & functions declared with `let`, `var`, and `const`, as well as functions declared with the `function` keyword
+
+### I-D. Questions on Variable Scope
 
 1. What is the scope of the variable `myNum` below?
 
