@@ -50,6 +50,8 @@
 
 <hr>
 
+<a id="section3"></a>
+
 ## III. Writing maintainable code
 
 - The Audio Visualizer HW code is "not scalable" demo code. It should be refactored when used in your Project 1's - let's look at some ideas of things we could do.
