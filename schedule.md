@@ -54,6 +54,7 @@
   - [Week 7B - Midterm Exam](weekly/week-07B-notes.md)
  
 ## <a id="week8">Week 8 : Review midterm/ Project 1 / Begin Computational Text Unit
+  - October break on 10/14 & 10/15
   - [Week 8 - Text & Computation](weekly/week-08-notes.md)
   
 ## <a id="week9">Week 9 :  Computational Text Libraries
