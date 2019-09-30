@@ -14,7 +14,7 @@
 - [Week 05 (Sep 23) : More Web Audio / ES6 Module Pattern](#week5)
 - [Week 06 (Sep 30) : Review Project 1 Prototypes / JS Prototype Chain & Delegation](#week6)
 - [Week 07 (Oct 07) : Review Project 1 Prototypes / Midterm Exam](#week7)
-- [Week 08 (Oct 14) : Begin Computational Text Unit](#week8)
+- [Week 08 (Oct 14) : October Break / Begin Computational Text Unit](#week8)
 - [Week 09 (Oct 21) : Computational Text Libraries](#week9)
 - [Week 10 (Oct 28) : Web Services + ES6 Modules](#week10)
 - [Week 11 (Nov 04) : Node.js + More Web Services](#week11)
