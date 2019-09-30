@@ -22,9 +22,7 @@
 2. JavaScript classes, introduced in ECMAScript 2015, are primarily ___________ over JavaScript's existing prototype-based inheritance. 
 3. True or False. The JavaScript class syntax introduces a new object-oriented inheritance model to JavaScript.
 
-**C. JavaScript runtime**
-- https://mathiasbynens.be/notes/shapes-ics
-1. What is the purpose of a JS engine *shape*?
+
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
