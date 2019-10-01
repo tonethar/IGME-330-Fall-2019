@@ -73,6 +73,7 @@
 - The standard AV-2 HW has 15 variables scoped outside of any function definition - we could instead group them together:
 
 ```js
+// main.js
 let params = Object.seal({
 	invert 			: false,
 	tintRed 		: false, 
@@ -86,6 +87,7 @@ let params = Object.seal({
 **AND**
 
 ```js
+// main.js
 const Sounds = Object.freeze({
 	sound_1: 'media/New Adventure Theme.mp3',
 	sound_2: 'media/Peanuts Theme.mp3',
@@ -105,6 +107,7 @@ const Sounds = Object.freeze({
 - AV-2 is duplicating a bunch of code when it draws the 3 sets of circles - how about refactoring this code into a helper function - something like this:
 
 ```js
+// canvas-utils.js
 function showCircle(ctx,x,y,radius,color){
   ctx.save();
   
@@ -136,6 +139,7 @@ function showPixelEffects(imageData,params){
 - We can group all of our audio related objects and nodes under one object:
 
 ```js
+// utils.js
 function createAudioGraph(audioElement,numSamples){
   // 1 - create new AudioContext
   let ctx = new (window.AudioContext || window.webkitAudioContext);
