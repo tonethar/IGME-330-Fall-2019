@@ -166,7 +166,7 @@ function createAudioGraph(audioElement,numSamples){
 <hr>
 
 ## IV. Project 1
-- Due dates have been updated
+- Project 1 due dates have been updated
 - Look at [Project 1 - Audio Visualizer](../projects/project-1.md) prototypes
   - does your project prototype have at least the beginnings of "flair" and go beyond a *minimum effort*? 
     - https://www.youtube.com/watch?v=3vdcw415OcQ
