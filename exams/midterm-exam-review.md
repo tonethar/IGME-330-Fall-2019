@@ -26,7 +26,8 @@
 
 ## III. Study Resources
 - **Note:** Some of these JavaScript concepts are covered in these IGME-230 notes:
-  - IGME-230 JavaScript Web App notes: https://github.com/tonethar/IGME-230-GDD-Spring-2018/blob/master/notes/web-apps-0.md
+  - IGME-230 JavaScript Web App notes:
+    - https://github.com/tonethar/IGME-230-GDD-Spring-2018/blob/master/notes/web-apps-0.md
   - An intro to ES6 classes is here: https://github.com/tonethar/IGME-230-Master/blob/master/notes/pixi-js-2.md
 - All of our **weekly notes** beginning with [week-01A-notes.md](../weekly/week-01A-notes.md) and ending with [week-07A-notes.md](../weekly/week-07A-notes.md)
 - All of our **in-class demos** - which are linked from the weekly notes above
