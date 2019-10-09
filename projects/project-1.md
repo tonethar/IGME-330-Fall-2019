@@ -258,7 +258,7 @@ Your project will be graded on the following criteria:
 | **Deductions** | **&darr; Don't lose points for any of these! &darr;** | |
 | *Deduction if missing an embedded font* | *(-5)* | |
 | *Deduction if missing a CSS framework or modern web layout* | *(-10)* | |
-| *Deduction if missing ES6 Revealing Module Pattern* | *(-20)* | |
+| *Deduction if missing ES6 Module Pattern* | *(-15)* | |
 | *Deduction if required prototype is not submitted to dropbox on time* | *(-10)* | |
 | *Deduction if final and complete documentation is not submitted to dropbox on time* | *(-10)* | |
 
