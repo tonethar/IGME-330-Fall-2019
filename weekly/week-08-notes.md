@@ -2,6 +2,7 @@
 
 ## I. Overview & Agenda
 
+- Review Midterm Exam
 - Loading text into the brower & the "Palindrome Detector" HW
 - Look at another *constrained writing* technique
 - Look at word counting, stop words, and building a word cloud app
