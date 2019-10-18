@@ -1,4 +1,4 @@
-# Week 9B: RiTa & Context-free Grammars
+# Week 9B: RiTa Computational Text Library
 
 ## I. Overview
 
