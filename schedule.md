@@ -15,7 +15,7 @@
 - [Week 06 (Sep 30) : Review Project 1 Prototypes / JS Prototype Chain & Delegation](#week6)
 - [Week 07 (Oct 07) : Review Project 1 Prototypes / Midterm Exam](#week7)
 - [Week 08 (Oct 14) : October Break / Begin Computational Text Unit](#week8)
-- [Week 09 (Oct 21) : Computational Text Libraries](#week9)
+- [Week 09 (Oct 21) : Constrained Writing and Simple Text Analysis / RiTa Computational Text Library](#week9)
 - [Week 10 (Oct 28) : Web Services + ES6 Modules](#week10)
 - [Week 11 (Nov 04) : Node.js + More Web Services](#week11)
 - [Week 12 (Nov 11) : Vue.js & MVVM](#week12)
@@ -57,13 +57,13 @@
   - October break on 10/14 & 10/15
   - [Week 8 - Text & Computation](weekly/week-08-notes.md)
   
-## <a id="week9">Week 9 :  Computational Text Libraries
-  - [Week 9A - RiTa](weekly/week-09A-notes.md)
-  - [Week 9B - RiTa & Context-free Grammars](weekly/week-09B-notes.md) 
+## <a id="week9">Week 9 :  Constrained Writing and Simple Text Analysis / Computational Literature
+  - [Week 9A - Constrained Writing and Simple Text Analysis](weekly/week-09A-notes.md)
+  - [Week 9B - Computational Literature with RiTa](weekly/week-09B-notes.md) 
   
-## <a id="week10">Week 10 : Web Services + ES6 Modules
-   - [Week 10A - Introduction to Web Services](weekly/week-10A-notes.md)
-   - [Week 10B - ES6 Classes & Modules](weekly/week-10B-notes.md)
+## <a id="week10">Week 10 : Context-free Grammars / Web Services + ES6 Modules
+   - [Week 10A - Context-Free Grammars with RiTa](weekly/week-10A-notes.md)
+   - [Week 10B - Web Services](weekly/week-10B-notes.md)
   
 ## <a id="week11">Week 11  : Node.js + More Web Services
    - [Week 11A - Intro to Node.js](weekly/week-11A-notes.md)
