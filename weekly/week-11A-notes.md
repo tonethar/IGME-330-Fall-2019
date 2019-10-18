@@ -15,7 +15,7 @@
 ## III. Important Deadlines
 
 - *When will the final exam be given?*
-  - the final exam is on the last day of class, Thursday April 25th
+  - the final exam is on the last day of class, Thursday December 5th
 - *When is the [final project](../projects/project-2.md) due?*
   - during the regularly scheduled final exam time for the course (see SIS for date/time and location)
   
