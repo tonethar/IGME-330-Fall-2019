@@ -1,4 +1,4 @@
-# Week 9B: RiTa Computational Text Library
+# Week 9B: Computational Literature with RiTa
 
 ## I. Overview
 
