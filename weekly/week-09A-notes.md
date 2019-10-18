@@ -1,4 +1,4 @@
-# Week 9A - Computational Text Libraries
+# Week 9A - Constrained Writing and Simple Text Analysis
 
 <a id="review"></a>
 
