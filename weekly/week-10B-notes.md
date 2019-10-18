@@ -1,6 +1,4 @@
-# Week 10B - ES6 Classes & Modules
-
-- Intro to Web Services
+# Week 10B - Working with the Cloud
 
 <a id="review"/>
 
