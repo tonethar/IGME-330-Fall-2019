@@ -9,7 +9,7 @@
 - **Final Project** - Just a preview of where we are headed - don't worry - we still have plenty to cover - and it's not due until finals week: [Project 2 - MVVM Web App Mashup of Awesomeness!](../projects/project-2.md)
 - **Upcoming HW assignments:**
   - Sections 01 & 02: check the myCourses dropboxes. There are 2 assignments due Monday 10/28 (one of these is easy), and 2 assignments due Wednesday 10/30 (one of these is easy). But regardless, don't wait until the night before to do these, work ahead on the assignments that you are able to!
-  - Sections 03: check the myCourses dropboxes. There are 2 assignments due Sunday 10/27 (one of these is easy), and 2 assignments due Tuesday 10/29 (one of these is easy). Ditto on not waiting too long!
+  - Section 03: check the myCourses dropboxes. There are 2 assignments due Sunday 10/27 (one of these is easy), and 2 assignments due Tuesday 10/29 (one of these is easy). Ditto on not waiting too long!
 
 ## II. Lecture Notes
 - [Text-2 - Constrained Writing](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-2.md)
