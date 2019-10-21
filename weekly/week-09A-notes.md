@@ -18,6 +18,11 @@
 ## III. HW Assignment
 - [HW - Word Cloud](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-word-cloud.md)
 
+# IV. Videos
+- These will help with today's HW:
+  - [Demo: Word Counter Part A (17:24)](https://video.rit.edu/Watch/text-3-word-counter-part-A)
+  - [Demo: Word Counter Part B (06:57)](https://video.rit.edu/Watch/text-3-word-counter-part-B)
+
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
