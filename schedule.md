@@ -16,7 +16,7 @@
 - [Week 07 (Oct 07) : Review Project 1 Prototypes / Midterm Exam](#week7)
 - [Week 08 (Oct 14) : October Break / Begin Computational Text Unit](#week8)
 - [Week 09 (Oct 21) : Constrained Writing and Simple Text Analysis / RiTa Computational Text Library](#week9)
-- [Week 10 (Oct 28) : Web Services](#week10)
+- [Week 10 (Oct 28) : Context-free Grammars / Web Services](#week10)
 - [Week 11 (Nov 04) : Node.js + More Web Services](#week11)
 - [Week 12 (Nov 11) : Vue.js & MVVM](#week12)
 - [Week 13 (Nov 18) : Cloud Data & JavaScript Topics](#week13)
