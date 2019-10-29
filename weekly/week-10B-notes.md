@@ -64,7 +64,7 @@
 
 
 ## V. Homework - Improved GIF Finder
-A really nice feature that all web apps have is ability to allow the user to "page" through large numbers of results. Unfortunately, in our current version of GIF Finder, did you notice that we always get the same 25 "cat" GIFs back when we search? Let's fix that!
+A really nice feature that all web apps have is ability to allow the user to "page" through large numbers of results. Unfortunately, in our current version of [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md), did you notice that we always get the same 25 "cat" GIFs back when we search? Let's fix that!
 
 - Add a "Find More!" button to your GIF Finder HW - here are some hints:
   - the `offset` API parameter is what controls the "start index" of the results. Because we have not supplied a value for this, it always defaults to `0` - see screenshot below:
