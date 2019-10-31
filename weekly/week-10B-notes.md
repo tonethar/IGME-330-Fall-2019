@@ -43,11 +43,13 @@
  - Docs are here: https://dog.ceo/dog-api/documentation/
  - Grab the demo start code [here](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md#random-dog) - and be sure to copy **dog-xhr.html** (the XHR version)
      - try out the start version - notice that this API endpoint is pretty simple to use because it does not require us to send any additional parameters along
+     - as we have seen before, `xhr.send()` puts the request code on a background thread, and is thus *asynchronous* (meaning that multiple things can happen at the same time), and the UI will stay responsive while the JSON file is being downloaded from the Internet
+     - hwo long does downlaoding this file take? Let's use `console.time("downloadData");` and `console.timeEnd("downloadData");` to find out - https://developer.mozilla.org/en-US/docs/Web/API/Console/time
      - now we will modify the code to utilize the "List all breeds" API endpoint (see Dog API docs link above)
-     - first get just the "top-level" breeds to show
-     - then be sure that the sub-breeds are also displayed
-     - note: this endpoint also does not require any additional parameters
-     - see screenshot below:
+       - first get just the "top-level" breeds to show
+       - then be sure that the sub-breeds are also displayed
+       - note: this endpoint also does not require any additional parameters
+       - see screenshot below:
 
 ![screenshot](./_images/webservice-demo-1.png)
 
