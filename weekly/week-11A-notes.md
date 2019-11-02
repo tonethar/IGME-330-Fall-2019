@@ -21,6 +21,9 @@
     - Monday, December 9th (section 03)
 - *When is the [final project](../projects/project-2.md) due?*
   - during the regularly scheduled final exam time for the course (see SIS for date/time and location)
+    - (section 01)
+    - (section 02)
+    - Monday, December 16th 7:00PM - 9:30PM ORN 1830 (section 03)
   
 ## IV. Other Resources
 - https://github.com/toddmotto/public-apis
