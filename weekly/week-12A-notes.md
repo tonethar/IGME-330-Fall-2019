@@ -41,7 +41,8 @@
 1. A request to a web server that contains all of the data in the query string is called a ___ request.
 1. A request to a web server that sends data in a separate file is called a ___ request.
 1. What was the data type returned by the "random jokes" web service?
-1. Imagine you are going to create a "random whimsical anecdotes" web service service that runs in banjo utilizing PHP. Give at least three things you will have to do to make sure that a browser can download and parse the requested number of anecdotes from the service?
+1. Imagine you are going to create a "random whimsical anecdotes" web service service that runs in banjo utilizing PHP. 
+  - Give at least three things you will have to do to make sure that a browser can download and parse the requested number of anecdotes from the service.
 
 <hr><hr>
 
