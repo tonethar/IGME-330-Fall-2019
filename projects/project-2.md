@@ -18,7 +18,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 - Resources:
    - This HW covered the basics of working with web services --> [GIF Finder HW](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) 
    - These weekly notes link to the relevant course content:
-     - [Week 10B - week-10B-notes.md](../weekly/week-10B-notes.md)
+     - [Week 10B - Web Services Review](../weekly/week-10B-notes.md)
      - [Week 11B - More About Web Services](../weekly/week-11B-notes.md)
      - [Week 12A - Intro to Vue.js](../weekly/week-12A-notes.md)
      - [Week 12B - More Vue.js](../weekly/week-12B-notes.md)
