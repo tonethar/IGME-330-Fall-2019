@@ -39,7 +39,6 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - How about USGS Earthquake data and the [Mapbox API](https://www.mapbox.com/api-documentation) - here's a video that runs through this --> [Coding Challenge #57: Mapping Earthquake Data](https://www.youtube.com/watch?v=ZiYdOwOrGyc)
     - Book information APIs --> [www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook](http://www.programmableweb.com/news/53-books-apis-google-books-goodreads-and-sharedbook/2012/03/13)
     - Woot deals --> [http://woot.wikia.com/wiki/API](http://woot.wikia.com/wiki/API)
-    - Best Buy Deals --> [https://developer.bestbuy.com](https://developer.bestbuy.com)
 	- Movie info --> [themoviedb.org/documentation/api](https://www.themoviedb.org/documentation/api)
     - Nearby restaurants --> [Yelp API](http://www.yelp.com/developers/documentation)
 	- Crime data --> [FBI Crime Data API](https://crime-data-explorer.fr.cloud.gov/api)
