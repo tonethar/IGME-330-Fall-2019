@@ -24,7 +24,7 @@
   - `string.split()`
   - `string.trim()`
   
-3) Give an example of a regular expression *Metacharacter*
+3) Give an example of a regular expression *Metacharacter* - https://help.relativity.com/9.3/Content/Relativity/Regular_expressions/Regular_expression_metacharacters.htm
 
 4) What are *stop words*?
 
