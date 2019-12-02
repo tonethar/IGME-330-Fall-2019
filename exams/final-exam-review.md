@@ -16,6 +16,8 @@
 
 ### III-A. Unstructured Text
 
+- See Text Notes #1-#5 starting here [Text 1 - Loading plain text](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-5.md)
+
 1) Give examples of *constrained writing* techniques
 
 2) What do the following JavaScript methods do?
