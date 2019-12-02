@@ -91,7 +91,7 @@ let json = {
 
 2) Write code that loops though all of the `results` above and logs out the value of all the `firstName` properties
 
-3) What is the name of the format of the following data? (*JSONP ("JSON with padding"), this won't be on the exam*)
+3) What is the name of the format of the following data? (ANSWER: *JSONP - which stands for "JSON with padding" - note the callback function. This won't be on the exam*)
 
 ```js
 dataLoaded({
