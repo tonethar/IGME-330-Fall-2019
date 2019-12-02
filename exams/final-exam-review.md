@@ -143,5 +143,40 @@ let xmlDOM = domParser.parseFromString(xmlString, "application/xml");
 ### III-F. Vue.js
 
 - See the "ReVue" Vue.js review questions (12B) linked above
+- Re-write the HTML below so that when the button is clicked, the `sayHello()` method will be called, and the paragraph is updated to display the value of `message`. You will not need to modify the JavaScript.
+
+```html
+<div id="root">
+	<button>Click Me!</button>
+	<p></p>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+<script>
+const app = new Vue({
+	el: "#root",
+	data: {
+		message: "???"
+	},
+	methods: {
+		sayHello(){
+			this.message="Hi!";
+		}
+	}
+
+});
+
+</script>
+```
 
 
