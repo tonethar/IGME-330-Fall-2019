@@ -16,7 +16,7 @@
 
 ### III-A. Unstructured Text
 
-- See Text notes #1-#5 starting here --> [Text 1 - Loading plain text](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-5.md)
+- See **Text** notes #1-#5 starting here --> [Text 1 - Loading plain text](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-5.md)
 
 1) Give examples of *constrained writing* techniques
 
@@ -144,9 +144,11 @@ let xmlDOM = domParser.parseFromString(xmlString, "application/xml");
 
 ### III-F. Vue.js
 
-- See Vue Notes #1-#4 starting here --> [Vue Part I - Introduction to Vue.js](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-1.md)
+- See **Vue** Notes #1-#4 starting here --> [Vue Part I - Introduction to Vue.js](https://github.com/tonethar/IGME-330-Master/blob/master/notes/vue-1.md)
 - See the "ReVue" Vue.js review questions (12B) linked above
-- Re-write the HTML below so that when the button is clicked, the `sayHello()` method will be called, and the paragraph is updated to display the value of `message`. You will not need to modify the JavaScript.
+- Sample Question:
+
+**Re-write the HTML below so that when the button is clicked, the `sayHello()` method will be called, and the paragraph is updated to display the value of `message`. You will not need to modify the JavaScript.**
 
 ```html
 <div id="root">
