@@ -1,10 +1,18 @@
 # Week 14A - Project 2 Work Day
 
 ## I. Topics
-- Reminder: "Yip" demo links are in myCourses - will be very helpful in architecting your application.
+- Helpful Project 2 Sample Code (see myCourses):
+  - "Yip" demo links - will be very helpful in architecting your application
+  - **counter-component-fun.html** demos:
+    - that components can have their own `data` property that is independently owned by that component
+    - how to pass arguments to components
+    - how components can use `$emit` to call a method in the main interface
+    - how to use `v-model` with a component
+  - **pass-data-to-vue.html** shows how to pass data "into" Vue from the "outside" - a good use case would be if your map code needed to communicate with your Vue instance
+- Here's an older demo on how to integrate Vue & Google Maps (but the "Yip" demo is probably more useful for Project 2) --> [demo-vue-plus-google-maps.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-vue-plus-google-maps.md)
 - Look at Project 2 prototypes
 - Troubleshoot Project 2 issues
-- Demo how to integrate Vue & Google Maps --> [demo-vue-plus-google-maps.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-vue-plus-google-maps.md)
+
 
 ## II. Final Exam Review Resources
 - For the final exam, you are allowed a "cheat sheet":
