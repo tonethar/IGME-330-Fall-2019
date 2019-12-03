@@ -2,7 +2,7 @@
 
 ## I. Topics
 - Helpful Project 2 Sample Code (see myCourses):
-  - "Yip" demo links - will be very helpful in architecting your application
+  - the **"Yip" demo links* in myCourses will be very helpful in architecting your application
   - **counter-component-fun.html** demos:
     - that components can have their own `data` property that is independently owned by that component
     - how to pass arguments to components
