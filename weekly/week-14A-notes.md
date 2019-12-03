@@ -1,6 +1,7 @@
 # Week 14A - Project 2 Work Day
 
 ## I. Topics
+- Reminder: "Yip" demo links are in myCourses - will be very helpful in architecting your application.
 - Look at Project 2 prototypes
 - Troubleshoot Project 2 issues
 - Demo how to integrate Vue & Google Maps --> [demo-vue-plus-google-maps.md](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-vue-plus-google-maps.md)
