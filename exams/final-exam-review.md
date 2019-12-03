@@ -7,7 +7,6 @@
 ## II. What's on it? How do I study?
 - Everything that was covered for the entire semester is fair game, so be sure to review the course material from prior to the midterm --> [Midterm Exam Review](../exams/midterm-exam-review.md)
 - Review questions covered since midterm exam:
-  - [week-10B-notes.md#review](../weekly/week-10B-notes.md#review)
   - [week-12A-notes.md#review](../weekly/week-12A-notes.md#review)
   - [week-12B-notes.md#review](../weekly/week-12B-notes.md#review)
 - Review course notes and lecture videos, they are linked in mycourses
@@ -17,6 +16,7 @@
 ### III-A. Unstructured Text
 
 - See **Text** notes #1-#5 starting here --> [Text 1 - Loading plain text](https://github.com/tonethar/IGME-330-Master/blob/master/notes/text-5.md)
+- See **Text** "wrap up" here --> [week-10B-notes.md#review](../weekly/week-10B-notes.md#review)
 
 1) Give examples of *constrained writing* techniques
 
