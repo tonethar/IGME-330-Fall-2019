@@ -1,5 +1,5 @@
 
-# IGME-330 - Spring 2019: Schedule
+# IGME-330 - Fall 2019: Schedule
 
 ## Contents
 
